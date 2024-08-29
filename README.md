@@ -6,7 +6,7 @@
 [![GitHub License](https://img.shields.io/github/license/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/blob/main/LICENSE)
 [![GitHub Contributors](https://img.shields.io/github/contributors/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/graphs/contributors)
 
-![Discord Nitro](https://digiseller.mycdn.ink/preview/1094431/p1_3481899_eaac680e.gif)
+![Discord Nitro](https://files.catbox.moe/dhws7j.gif)
 
 The fastest and most reliable Discord Nitro Generator, automatically generating infinite nitro codes and utilising discord's API to instantly check for any valid ones.
 
