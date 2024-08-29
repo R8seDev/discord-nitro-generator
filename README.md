@@ -12,7 +12,7 @@ The fastest and most reliable Discord Nitro Generator, automatically generating 
 
 ## 🚨 Disclaimer
 
-**Warning:** This project is intended for educational purposes only. Always obtain Discord Nitro codes through legitimate means.
+**Warning:** This project is intended for educational purposes only.
 
 ## 📚 Table of Contents
 
