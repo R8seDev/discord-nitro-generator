@@ -1,10 +1,10 @@
 # ⚡ Discord Nitro Generator
 
-[![GitHub Issues](https://img.shields.io/github/issues/Fl4meDev/discord-nitro-generator.svg)](https://github.com/Fl4meDev/discord-nitro-generator/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/Fl4meDev/discord-nitro-generator.svg)](https://github.com/Fl4meDev/discord-nitro-generator/network)
-[![GitHub Stars](https://img.shields.io/github/stars/Fl4meDev/discord-nitro-generator.svg)](https://github.com/Fl4meDev/discord-nitro-generator/stargazers)
-[![GitHub License](https://img.shields.io/github/license/Fl4meDev/discord-nitro-generator.svg)](https://github.com/Fl4meDev/discord-nitro-generator/blob/main/LICENSE)
-[![GitHub Contributors](https://img.shields.io/github/contributors/Fl4meDev/discord-nitro-generator.svg)](https://github.com/Fl4meDev/discord-nitro-generator/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/network)
+[![GitHub Stars](https://img.shields.io/github/stars/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/stargazers)
+[![GitHub License](https://img.shields.io/github/license/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/graphs/contributors)
 
 ![Discord Nitro](https://digiseller.mycdn.ink/preview/1094431/p1_3481899_eaac680e.gif)
 
@@ -47,9 +47,9 @@ This project can generate over 16,000 different nitro codes in under a minute!
 3. Share the project with friends to help them obtain nitro too!
 
 ## 🤝 Contributing
-Fl4meDev, Werone, D00G
+R8seDev, Werone, D00G
 Contributions are welcome! If you have suggestions for improving this educational project, feel free to fork the repository and submit a pull request. If you're having any issues, make sure to report them!
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Fl4meDev/discord-nitro-generator?tab=GPL-3.0-1-ov-file) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/R8seDev/discord-nitro-generator?tab=GPL-3.0-1-ov-file) file for details.
