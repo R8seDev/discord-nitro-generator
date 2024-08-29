@@ -12,7 +12,7 @@ The fastest and most reliable Discord Nitro Generator, automatically generating 
 
 ## 🚨 Disclaimer
 
-**Warning:** This project is intended for educational purposes only.
+***This project is intended for educational purposes only. You can use it responsibly and at your own risk. The author is not responsible for any misuse or damage caused by this project.***
 
 ## 📚 Table of Contents
 
@@ -47,8 +47,10 @@ This project can generate over 16,000 different nitro codes in under a minute!
 3. Share the project with friends to help them obtain nitro too!
 
 ## 🤝 Contributing
-R8seDev, Werone, D00G
-Contributions are welcome! If you have suggestions for improving this educational project, feel free to fork the repository and submit a pull request. If you're having any issues, make sure to report them!
+1. **Star** the repository!
+2. Bugs and suggestions in the [issues section](https://github.com/nxeeee/Nitro-Generator-V3/issues), submit your error and any helpful information.
+3. **Donate**! This project is non-profitable, I appreciate any donations to my Monero:)
+> My XMR wallet: `49duoCyTYrHTokVw9UVuDASbrbvG2suxLZovkrhJysj8bsJyqq48j73TBK21s3gfJp3YkqhgpWzUWBK4oiuDbCFG8fceohd`
 
 ## 📄 License
 
