@@ -5,7 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/stargazers)
 [![GitHub License](https://img.shields.io/github/license/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/blob/main/LICENSE)
 [![GitHub Contributors](https://img.shields.io/github/contributors/R8seDev/discord-nitro-generator.svg)](https://github.com/R8seDev/discord-nitro-generator/graphs/contributors)
-![Downloads](https://img.shields.io/badge/Downloads-126-green?style=flat)
+![Downloads](https://img.shields.io/badge/Downloads-132-green?style=flat)
 
 ![Discord Nitro](https://files.catbox.moe/dhws7j.gif)
 
